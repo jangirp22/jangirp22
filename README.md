@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jangirp22
-- 👀 I’m interested in Programming and Product Management.
+- 👀 I’m interested in Competitive Programming, ML and AI.
 - 🌱 I’m currently learning Computer Science.
 
 <!---
