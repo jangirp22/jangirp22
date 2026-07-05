@@ -1,12 +1,12 @@
-# Hi there, I'm Purav Jangir
+# Hi there, I'm Purav Jangir 👋
 
-I'm a B.Tech graduate in Computer Science and Engineering from IIT Kanpur (Y22). My primary interests lie in the intersection of **Artificial Intelligence, Language and Human Psychology**, where I enjoy applying engineering principles and make something fruitful out of it.
+I'm a B.Tech graduate in Computer Science and Engineering from IIT Kanpur (Y22). My primary interests lie at the intersection of **Artificial Intelligence, Language, and Human Psychology**, where I enjoy applying engineering principles to build something meaningful and impactful.
 
 ## 🚀 About Me
 
-* 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**, **Understanding Language as a building block for Human Psychology**
-* 🔬 Interested in **ML/AI Research** and developing novel AI-driven solutions, also discuss life in general :)
-* 💻 Competitive Programming enthusiast who enjoys solving challenging algorithmic problems
+* 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and understanding **Language as a fundamental building block of Human Psychology**.
+* 🔬 Interested in **ML/AI Research** and developing novel AI-driven solutions. I also enjoy discussing life in general :)
+* 💻 Competitive Programming enthusiast who enjoys solving challenging algorithmic problems.
 
 ## 🛠️ Areas of Interest
 
@@ -16,10 +16,10 @@ I'm a B.Tech graduate in Computer Science and Engineering from IIT Kanpur (Y22).
 * AI for Healthcare
 * AI Research
 
-## Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in collaborating on exciting AI projects, research opportunities, and open-source contributions. Feel free to connect and discuss anything related to Machine Learning, Artificial Intelligence, Computer Vision, or Competitive Programming.
+I'm always interested in collaborating on exciting AI projects, research opportunities, and open-source contributions. Feel free to connect and discuss anything related to Machine Learning, Artificial Intelligence, Computer Vision, Competitive Programming, Language, analyzing human behavior, or exploring the scientific reasoning behind it.
 
 ---
 
-**Language, Human Psychology, Neural Network**, just amazed how well they are connected.
+**Language, Human Psychology, and Neural Networks** -- I'm constantly amazed by how deeply connected they are.
