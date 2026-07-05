@@ -16,14 +16,6 @@ I'm a B.Tech graduate in Computer Science and Engineering from IIT Kanpur (Y22).
 * AI for Healthcare
 * AI Research
 
-### AI & Deep Learning
-
-Worked on projects involving deep learning architectures, representation learning, and intelligent AI pipelines for practical applications.
-
-## Competitive Programming
-
-I enjoy solving algorithmic and data structure problems regularly. Competitive programming has helped me develop strong problem-solving skills and write efficient, optimized code.
-
 ## Let's Connect
 
 I'm always interested in collaborating on exciting AI projects, research opportunities, and open-source contributions. Feel free to connect and discuss anything related to Machine Learning, Artificial Intelligence, Computer Vision, or Competitive Programming.
